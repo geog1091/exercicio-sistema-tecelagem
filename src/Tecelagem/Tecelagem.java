@@ -3,7 +3,7 @@ package Tecelagem;
 public class Tecelagem {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
         Administracao a1= new Administracao("Zé", "123-4", 10000);
         a1.registrarFalta();
         a1.registrarFalta();
